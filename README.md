@@ -1,0 +1,1 @@
+This is an example of how to run dockerized pathomics analysis with multiple threads.
